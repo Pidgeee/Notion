@@ -18,7 +18,7 @@
     font-size:large;
 }
 body{
-    background-color: #702B1E;
+    background-color: aliceblue;
 }
     </style>
 </head>
